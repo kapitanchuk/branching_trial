@@ -1,5 +1,5 @@
 function doSth(){
-    console.log('Say my name')
+    console.log('Heisenberg')
 }
 
 const doSth2 = () =>{
