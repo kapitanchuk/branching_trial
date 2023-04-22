@@ -1,5 +1,5 @@
 function doSth(){
-    console.log("12")
+    console.log('Say my name')
 }
 
 const doSth2 = () =>{
